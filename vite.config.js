@@ -1,5 +1,4 @@
 
-
 Import { Resolve } From "Path";
 Import { DefineConfig } From "Vite";
 
@@ -13,5 +12,3 @@ News: Resolve(__dirname, "news.html"),
     },
   },
 });
-
-
