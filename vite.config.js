@@ -1,4 +1,4 @@
-Vite Configaration File:
+
 
 Import { Resolve } From "Path";
 Import { DefineConfig } From "Vite";
